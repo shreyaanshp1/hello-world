@@ -1,2 +1,2 @@
 print("hello world")
-print("thisis the best")
+print("this is the best code!")
